@@ -128,7 +128,28 @@ View(names)
   
   View(confusion_list[[k]])
   
+  ## results 
+  
+  1- logistic activation function 
+  
+  7 nodes 1 hidden layer : model accuracy  81.2% 
+  
 ![1](https://user-images.githubusercontent.com/84159789/118224699-4fd67880-b449-11eb-985c-094264fdaf6f.png)
 
-![conf](https://user-images.githubusercontent.com/84159789/118224398-b018ea80-b448-11eb-9265-035349433f32.PNG) model accuracy was 81.2% 
+![conf](https://user-images.githubusercontent.com/84159789/118224398-b018ea80-b448-11eb-9265-035349433f32.PNG) 
+
+5, 6 nodes 1 hidden layer : 81.2 % accuracy 
+
+2- tanh activation function 
+
+7 nodes 1 hidden layer 
+![image](https://user-images.githubusercontent.com/84159789/118227354-04729900-b44e-11eb-85b7-5c871180c258.png)
+![image](https://user-images.githubusercontent.com/84159789/118227382-12281e80-b44e-11eb-9f3d-5db658104cf4.png)
+
+
+
+
+
+
+
 
