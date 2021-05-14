@@ -130,4 +130,5 @@ View(names)
   
 ![1](https://user-images.githubusercontent.com/84159789/118224699-4fd67880-b449-11eb-985c-094264fdaf6f.png)
 
-![conf](https://user-images.githubusercontent.com/84159789/118224398-b018ea80-b448-11eb-9265-035349433f32.PNG)
+![conf](https://user-images.githubusercontent.com/84159789/118224398-b018ea80-b448-11eb-9265-035349433f32.PNG) model accuracy was 81.2% 
+
