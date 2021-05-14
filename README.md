@@ -128,7 +128,7 @@ View(names)
   
   View(confusion_list[[k]])
   
-  ## results 
+  # results 
   
   1- logistic activation function 
   
@@ -138,15 +138,37 @@ View(names)
 
 ![conf](https://user-images.githubusercontent.com/84159789/118224398-b018ea80-b448-11eb-9265-035349433f32.PNG) 
 
-5, 6 nodes 1 hidden layer : 81.2 % accuracy 
+5, 6 nodes 1 hidden layer : 68.7 % accuracy 
+
+![image](https://user-images.githubusercontent.com/84159789/118233464-8adfa880-b457-11eb-8f56-24df292e12e4.png)
+![image](https://user-images.githubusercontent.com/84159789/118233416-7c918c80-b457-11eb-92de-23a60a003cb3.png)
+
+
+2 hidden layers 7,5 nodes 
+![image](https://user-images.githubusercontent.com/84159789/118228575-0a697980-b450-11eb-8dca-ade4afc05869.png)
+![image](https://user-images.githubusercontent.com/84159789/118228617-1c4b1c80-b450-11eb-8583-2d42e1504586.png)
+
 
 2- tanh activation function 
 
+7 nodes 1 hidden layer : 81.2% 
+![image](https://user-images.githubusercontent.com/84159789/118230240-f410ed00-b452-11eb-9f74-8edfbd124324.png)
+![image](https://user-images.githubusercontent.com/84159789/118230272-012ddc00-b453-11eb-8148-266958c784e6.png)
+
+2 hidden layers 7,5 nodes 
+![image](https://user-images.githubusercontent.com/84159789/118231097-3a1a8080-b454-11eb-9c62-94db3a492bd9.png)
+![image](https://user-images.githubusercontent.com/84159789/118231123-443c7f00-b454-11eb-8544-ca4c4aa4073f.png)
+
+2 hidden layers 6,5 layers 
+![image](https://user-images.githubusercontent.com/84159789/118231379-a85f4300-b454-11eb-8083-41e355d5ebf1.png)
+![image](https://user-images.githubusercontent.com/84159789/118231400-b3b26e80-b454-11eb-8084-7db3f23150b0.png)
+
+
+3- RELU activation function 
+
 7 nodes 1 hidden layer 
-![image](https://user-images.githubusercontent.com/84159789/118227354-04729900-b44e-11eb-85b7-5c871180c258.png)
-![image](https://user-images.githubusercontent.com/84159789/118227382-12281e80-b44e-11eb-9f3d-5db658104cf4.png)
-
-
+![image](https://user-images.githubusercontent.com/84159789/118232968-ea898400-b456-11eb-8163-8ff07982d5fe.png)
+![image](https://user-images.githubusercontent.com/84159789/118233003-fb39fa00-b456-11eb-96f3-ef8332590238.png)
 
 
 
