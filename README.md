@@ -188,6 +188,9 @@ RELU = function(x)  log(1 + exp(x))
 
 ![image](https://user-images.githubusercontent.com/84159789/118233003-fb39fa00-b456-11eb-96f3-ef8332590238.png)
 
+4 fold cross validation results: 
+
+![image](https://user-images.githubusercontent.com/84159789/119776553-b5375a00-be8a-11eb-82f8-3e1048d4cb39.png)
 
 
 
