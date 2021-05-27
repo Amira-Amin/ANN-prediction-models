@@ -192,6 +192,12 @@ RELU = function(x)  log(1 + exp(x))
 
 ![image](https://user-images.githubusercontent.com/84159789/119776553-b5375a00-be8a-11eb-82f8-3e1048d4cb39.png)
 
+4 fold corss vaildation (tanh ) results 
+![image](https://user-images.githubusercontent.com/84159789/119777726-30e5d680-be8c-11eb-9b00-23e06976c19d.png)
+
+7 hidden layers logistic regression 
+![image](https://user-images.githubusercontent.com/84159789/119779304-262c4100-be8e-11eb-9970-71222fda2fea.png)
+
 
 
 
