@@ -210,5 +210,6 @@ RELU = function(x)  log(1 + exp(x))
 ![Rplot3](https://user-images.githubusercontent.com/84159789/121577914-b1a9e400-c9ef-11eb-905a-5b8d150abfeb.png)
 ![Rplot6](https://user-images.githubusercontent.com/84159789/121577916-b1a9e400-c9ef-11eb-8046-05d7f761ca69.png)
 ![Rplot7](https://user-images.githubusercontent.com/84159789/121577917-b2427a80-c9ef-11eb-8100-87d641cce12f.png)
+![Rplot8](https://user-images.githubusercontent.com/84159789/121578179-04839b80-c9f0-11eb-935a-75c3121cfdeb.png)
 
 
